@@ -4,7 +4,7 @@
 
 ![Python Version](https://img.shields.io/badge/Python-3.11+-blue.svg?logo=python&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-green.svg)
 <p align="center">
-  <img src="docs/assets/logo.svg" alt="Logo" width="200" />
+  <img src="Harness-code/docs/assets/logo.svg" alt="Logo" width="200" />
 </p>
 
 ![演示动图](docs/assets/demo.gif)
