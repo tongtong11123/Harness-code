@@ -141,9 +141,3 @@ Harness-code 是一个典型的 harness-style 工程：项目的目标架构、�
 **横切约定**
 - [`core-beliefs.md`](docs/design-docs/core-beliefs.md) — 设计信念与反模式
 - [`tool-design-guidelines.md`](docs/design-docs/tool-design-guidelines.md) — 新增工具设计指南
-
----
-
-## 许可证
-
-MIT
